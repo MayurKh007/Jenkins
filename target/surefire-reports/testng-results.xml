@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="mavenforJenkins.mavenforJenkins.UITest" duration-ms="7785" started-at="2021-11-18T14:54:12Z" finished-at="2021-11-18T14:54:20Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="7785" started-at="2021-11-18T14:54:12Z" finished-at="2021-11-18T14:54:20Z">
+      <class name="mavenforJenkins.mavenforJenkins.UITest">
+        <test-method status="PASS" signature="startbrowser()[pri:0, instance:mavenforJenkins.mavenforJenkins.UITest@39aeed2f]" name="startbrowser" duration-ms="7775" started-at="2021-11-18T20:24:12Z" finished-at="2021-11-18T20:24:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startbrowser -->
+      </class> <!-- mavenforJenkins.mavenforJenkins.UITest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- mavenforJenkins.mavenforJenkins.UITest -->
+</testng-results>
